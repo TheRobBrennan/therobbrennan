@@ -2,4 +2,4 @@
 
 Any others you meet are imposters and must be..."dealt with." 🤣
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=therobbrennan)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=therobbrennan&count_private=true)
