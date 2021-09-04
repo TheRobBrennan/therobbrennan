@@ -1,0 +1,16 @@
+{
+  "name": "therobbrennan",
+  "version": "0.0.0",
+  "description": "Any others you meet are imposters and must be...\"dealt with.\" 🤣",
+  "keywords": [],
+  "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/therobbrennan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/therobbrennan/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/therobbrennan#readme"
+}
